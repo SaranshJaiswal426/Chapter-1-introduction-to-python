@@ -33,3 +33,5 @@ print(type(q))
 x = None
 print(type(x))
 # Output: <type 'NoneType'>
+a = b = c = 1
+print(a, b, c)
